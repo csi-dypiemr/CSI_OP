@@ -1,20 +1,16 @@
-# GitHub-Bootcamp-2022
-This repository is for practicing git and github, making PRs and learning much. 
+# Heading 1
+## Heading2
 
-## Kindly add your file with format `.txt` with following rules below.
+*text*
+_text_
 
-- Your file name should be format with `.txt` extention.
-- Your file will include following parameters👇
-```
-- Your name
-- Your class and Branch
-- Your Division 
-- Your 2 digit Roll no.
-```
-## Example:
-```
-Omkar Kulkarni
-TE AI&DS
-A
-38
-```
+-item1
+-item2
+-item3
+
+1.item 1
+2.item 2
+
+| name | email |
+|---- | ---- |
+
