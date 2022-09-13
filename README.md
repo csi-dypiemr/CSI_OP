@@ -1,20 +1,9 @@
-# GitHub-Bootcamp-2022
-This repository is for practicing git and github, making PRs and learning much. 
+#<h1 align="center">Hi 👋, I'm Anjali</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## Kindly add your file with format `.txt` with following rules below.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- Your file name should be format with `.txt` extention.
-- Your file will include following parameters👇
-```
-- Your name
-- Your class and Branch
-- Your Division 
-- Your 2 digit Roll no.
-```
-## Example:
-```
-Omkar Kulkarni
-TE AI&DS
-A
-38
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
