@@ -1,0 +1,71 @@
+[33mcommit 7517b755a471880a049314a7a9321afb7f44454e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 23:02:01 2022 +0530
+
+    Delete pranav.txt
+
+[33mcommit 04f0d0973364e0f8ab63e67f5f6fd54a872795ac[m
+Merge: cb07675 fc0668a
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 22:21:19 2022 +0530
+
+    Merge pull request #2 from Pranav-Shinde11/main
+    
+    pranav.txt file added
+
+[33mcommit fc0668a708d1349914f06a71f9cb6c594e6fc715[m
+Author: Pranav Shinde <pranavshinde4019@gmail.com>
+Date:   Mon Sep 12 22:16:58 2022 +0530
+
+    pranav.txt file edited
+
+[33mcommit cf1563b76d0d7278cd032891579c9d17447c57e3[m
+Author: Pranav Shinde <pranavshinde4019@gmail.com>
+Date:   Mon Sep 12 22:11:47 2022 +0530
+
+    pranav.txt file added
+
+[33mcommit cb07675a273b9ce112bf1334ced50c097146ae6c[m
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 22:07:04 2022 +0530
+
+    Delete pranavOP.txt
+
+[33mcommit 78c9cf216a36473d80a4d30effe67b2bc2a2703e[m
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 22:06:52 2022 +0530
+
+    Delete omkar.txt
+
+[33mcommit fc3381fd03ce676502251e7110276a88d41971db[m
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 22:05:21 2022 +0530
+
+    Update README.md
+
+[33mcommit 14bfe5b08792b0877ab3173a924b1d940b21ada4[m
+Merge: 3d9d543 32aa0e1
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 21:54:39 2022 +0530
+
+    Merge pull request #1 from Omkar0114/main
+    
+    Pranav.txt file added
+
+[33mcommit 32aa0e104a5b99d43961fe90a910de5a049be660[m
+Author: Omkar0114 <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 21:51:11 2022 +0530
+
+    PranavOP.txt file added
+
+[33mcommit 3d9d5435a0d66c244d2dc7c6db08a751b541e5fd[m
+Author: Omkar0114 <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 21:45:40 2022 +0530
+
+    Omkar.txt file added
+
+[33mcommit cd045979689799f3d5b64994a9f6de6719af70dd[m
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Mon Sep 12 21:36:41 2022 +0530
+
+    Initial commit
