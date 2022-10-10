@@ -1,5 +1,0 @@
-Name     :- Utkarsh Dnyanadeo Pachapande
-Class    :- S.E
-Brach    :- Artificial Intellegence & Data Science
-Division :- A
-Roll no  :- 21124
